@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="19936" started-at="2020-04-08T07:19:36Z" finished-at="2020-04-08T07:19:56Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="19936" started-at="2020-04-08T07:19:36Z" finished-at="2020-04-08T07:19:56Z">
+      <class name="com.everest.QA123.Testcase2">
+        <test-method status="PASS" signature="launchdriver()[pri:0, instance:com.everest.QA123.Testcase2@65466a6a]" name="launchdriver" is-config="true" duration-ms="4845" started-at="2020-04-08T07:19:36Z" finished-at="2020-04-08T07:19:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchdriver -->
+        <test-method status="PASS" signature="Test1()[pri:0, instance:com.everest.QA123.Testcase2@65466a6a]" name="Test1" duration-ms="12729" started-at="2020-04-08T07:19:40Z" finished-at="2020-04-08T07:19:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.everest.QA123.Testcase2@65466a6a]" name="quit" is-config="true" duration-ms="2337" started-at="2020-04-08T07:19:53Z" finished-at="2020-04-08T07:19:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.everest.QA123.Testcase2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
